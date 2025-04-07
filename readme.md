@@ -7,3 +7,7 @@
 - milk
 - French bread
 - butter
+- Blueberries
+- celery
+- low sodium chicken broth
+- apples
