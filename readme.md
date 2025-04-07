@@ -1,0 +1,9 @@
+- clementines
+- Eggs
+- Coffee Creamer
+- pasta noodles
+- garlic
+- lemon
+- milk
+- French bread
+- butter
